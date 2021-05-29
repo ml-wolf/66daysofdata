@@ -8,3 +8,6 @@ I started this journey by signing into the course "Text Mining and Natural Langu
 
 #Day 2: Short html cleaning session
 Today I just spent a couple of minutes on further cleaning operations for html tables with stringr.
+
+#Day 3: Ground zero
+Due to the inactuality of Minerva's course, and because of the absence of any help from her, I had to return it. So today I started a course on Datacamp, that suits my needs much better. After all I wanted to build my knowledge in NLP from the very beginning and this course covers the true fundamentals of text analysis such as regular expressions, tokenization, stop-words-removal and stemming. I am working night shift tonight, so i have a lot of time for studying on the side. 
