@@ -15,3 +15,5 @@ Due to the inactuality of Minerva's course, and because of the absence of any he
 Last night I made alot of progress. After getting familiar with the bag-of-words-representation, the typical vector representation, the tidytext representation and sparse matrices I learned about TFIDF matrices and Cosine Similarity and finished Chapter 2 of the course. Chapter 3 focuses on The data preparation for modeling. After a randomforest classification lateet dirichlet allocation was introduced and I stopped after the section on Beta- and Gamma-matrices.
 
 #Day 4: Today I finished Chapter 3 with finalizing the LDA analysis with perplexity and other metrics and summarizing LDA results.
+
+#Day 5: Just finished The Intro to NLP with R by completing Chapter 4 on advanced techniques. With this review of the fundamential knowledge NLP I can start my Analysis after I successfully scraped the reviews.
