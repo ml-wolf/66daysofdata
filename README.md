@@ -17,3 +17,5 @@ Last night I made alot of progress. After getting familiar with the bag-of-words
 #Day 4: Today I finished Chapter 3 with finalizing the LDA analysis with perplexity and other metrics and summarizing LDA results.
 
 #Day 5: Just finished The Intro to NLP with R by completing Chapter 4 on advanced techniques. With this review of the fundamential knowledge NLP I can start my Analysis after I successfully scraped the reviews.
+
+Day 6: After a long and exhausting day at work I started the course on webscraping in R on Datacamp. In the first section I learned about the hierarchical structure of html and started with parsing techniques of the rvest and the xml package.
