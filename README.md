@@ -21,3 +21,5 @@ Last night I made alot of progress. After getting familiar with the bag-of-words
 Day 6: After a long and exhausting day at work I started the course on webscraping in R on Datacamp. In the first section I learned about the hierarchical structure of html and started with parsing techniques of the rvest and the xml package.
 
 Day 7: Finished Chapter 1 on parsing basic html tables. Will visit a friend over the next couple of days, so I won't be making too much progress.
+
+Day 8: Today I reviewed CSS parsers before my friend woke up.
