@@ -23,3 +23,5 @@ Day 6: After a long and exhausting day at work I started the course on webscrapi
 Day 7: Finished Chapter 1 on parsing basic html tables. Will visit a friend over the next couple of days, so I won't be making too much progress.
 
 Day 8: Today I reviewed CSS parsers before my friend woke up.
+
+Day 9: After a five-hours trainride back to Muenster I did a small section on CSS IDs and classes.
