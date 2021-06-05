@@ -25,3 +25,5 @@ Day 7: Finished Chapter 1 on parsing basic html tables. Will visit a friend over
 Day 8: Today I reviewed CSS parsers before my friend woke up.
 
 Day 9: After a five-hours trainride back to Muenster I did a small section on CSS IDs and classes.
+
+Day 10: During my dayshift I didn't get alot of learning done, but manageged to do a small section on  CCS combinators + > ~ and space.
