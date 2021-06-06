@@ -27,3 +27,5 @@ Day 8: Today I reviewed CSS parsers before my friend woke up.
 Day 9: After a five-hours trainride back to Muenster I did a small section on CSS IDs and classes.
 
 Day 10: During my dayshift I didn't get alot of learning done, but manageged to do a small section on  CCS combinators + > ~ and space.
+
+Day 11: Same thing as yesterday, after work I learned about XPATH.
