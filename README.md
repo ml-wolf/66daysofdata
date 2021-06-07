@@ -29,3 +29,5 @@ Day 9: After a five-hours trainride back to Muenster I did a small section on CS
 Day 10: During my dayshift I didn't get alot of learning done, but manageged to do a small section on  CCS combinators + > ~ and space.
 
 Day 11: Same thing as yesterday, after work I learned about XPATH.
+
+Day 12: Tonight I did a section on Xpath-functions and advanced commands.
