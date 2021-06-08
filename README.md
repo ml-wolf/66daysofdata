@@ -31,3 +31,5 @@ Day 10: During my dayshift I didn't get alot of learning done, but manageged to 
 Day 11: Same thing as yesterday, after work I learned about XPATH.
 
 Day 12: Tonight I did a section on Xpath-functions and advanced commands.
+
+Day 13: Today our washing machine broke so after Uni I learned a lot about dismantling motor units and changing carbon brushes in theory and praxis.
