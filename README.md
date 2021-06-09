@@ -33,3 +33,5 @@ Day 11: Same thing as yesterday, after work I learned about XPATH.
 Day 12: Tonight I did a section on Xpath-functions and advanced commands.
 
 Day 13: Today our washing machine broke so after Uni I learned a lot about dismantling motor units and changing carbon brushes in theory and praxis.
+
+Day 14: I wrapped up the XPATH chapter and by finishing the last Chapter "best practices" I completed the Course on scraping. With my knowledge from the two courses I should be able to scrape whisky reviews and build a recommendation system based on NLP soon.
